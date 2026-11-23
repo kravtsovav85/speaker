@@ -93,7 +93,7 @@ h3 { font-size: clamp(23px, 2.2vw, 30px); }
 .hero-band {
   background: radial-gradient(ellipse at 22% 100%, #bb916027, transparent 52%), #f7f6f1;
 }
-.hero-photo {
+.hero-photo, .contact img {
   border: 1px solid #ffffffd9;
   border-radius: 20px;
   box-shadow: 0 10px 26px #223b2820;
