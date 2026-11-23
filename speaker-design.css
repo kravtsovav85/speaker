@@ -69,5 +69,7 @@ h3 { font-size: clamp(23px, 2.2vw, 30px); }
   .hero .actions { margin-block: 22px; }
   .hero .quiet { margin-top: 15px; }
   .hero-photo { max-height: 425px; }
+  .feature { grid-template-columns: minmax(0, 1fr); }
+  .feature-title { font-size: clamp(26px, 7.5vw, 32px); overflow-wrap: anywhere; }
   .section { padding-block: 52px; }
 }
